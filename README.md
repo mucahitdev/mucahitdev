@@ -3,11 +3,11 @@
 
 
 
-<p align="center">- 🌱 I’m currently learning **react**</p>
+<code align="center">- 🌱 I’m currently learning **react**</code>
 
-<p align="center">- 💬 Ask me about **html,css,js,react,vue**</p>
+<code align="center">- 💬 Ask me about **html,css,js,react,vue**</code>
 
-<p align="center">- 📫 How to reach me **kokdemir20@gmail.com**</p>
+<code align="center">- 📫 How to reach me **kokdemir20@gmail.com**</code>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
