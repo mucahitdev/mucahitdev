@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mucahit KOKDEMIR</h1>
-<h3 align="center">Jr Frontend Developer at NTT DATA Business Solutions Turkey</h3>
+<h3 align="center">Jr. Frontend Developer at NTT DATA Business Solutions Turkey</h3>
 
 
 <p align='center'><code align="center">- 🌱 I’m currently learning Next.js </code></p>
