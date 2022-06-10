@@ -2,12 +2,9 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 
-<p align='center'> 
-<code align="center">- 🌱 I’m currently learning **react**</code>
-<code align="center">- 💬 Ask me about **html,css,js,react,vue**</code>
-<code align="center">- 📫 How to reach me **kokdemir20@gmail.com**</code>
-  
-</p>
+<p align='center'><code align="center">- 🌱 I’m currently learning **react**</code></p>
+<p align='center'><code align="center">- 💬 Ask me about **html,css,js,react,vue**</code></p>
+<p align='center'><code align="center">- 📫 How to reach me **kokdemir20@gmail.com**</code></p>
 
 
 
