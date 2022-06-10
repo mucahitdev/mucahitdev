@@ -3,7 +3,7 @@
 
 
 
-<code align="center">- 🌱 I’m currently learning **react**</code>
+<center align="center">- 🌱 I’m currently learning **react**</center>
 
 <code align="center">- 💬 Ask me about **html,css,js,react,vue**</code>
 
