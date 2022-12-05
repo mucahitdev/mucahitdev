@@ -3,7 +3,7 @@
 
 
 <p align='center'><code align="center">- 🌱 I’m currently learning Next.js </code></p>
-<p align='center'><code align="center">- 💬 Ask me about html,css,js,react,vue </code></p>
+<p align='center'><code align="center">- 💬 Ask me about html,css,js,react </code></p>
 <p align='center'><code align="center">- 📫 How to reach me <a href='mailto:kokdemir20@gmail.com' > kokdemir20@gmail.com</a> </code></p>
 
 
