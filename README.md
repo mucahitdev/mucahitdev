@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mucahit KOKDEMIR</h1>
-<h3 align="center">Frontend Developer at NTT DATA Business Solutions Turkey</h3>
+<h3 align="center">Frontend & React Native Developer at NTT DATA Business Solutions Turkey</h3>
 
 
 
@@ -9,7 +9,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mucahitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mucahitdev" height="30" width="40" /></a>
-<a href="https://www.instagram.com/tech.mucof/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech.mucof" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kalimufs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech.mucof" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
